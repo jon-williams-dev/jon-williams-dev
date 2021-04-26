@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jon Williams
 - 👀 I’m interested in Rails, API's, React, Hotwire
 - 🌱 I’m currently learning Hotwire
-- 💞️ I’m looking to collaborate on all above :) 
+- 💞️ I’m looking to collaborate on all the above :) 
 - 📫 How to reach me: jon.williams@hey.com
 
 <!---
